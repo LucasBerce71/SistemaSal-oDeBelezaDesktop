@@ -1,0 +1,22 @@
+{
+  "name": "salaodesktop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LucasBerce71/SistemaSalaoDeBelezaDesktop.git",
+  "author": "Lucas Bercê de Jesus <41213419+LucasBerce71@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^11.1.1",
+    "electron-packager": "^15.0.0"
+  },
+  "dependencies": {
+    "css-tooltip": "^0.3.4",
+    "jQuery": "^1.7.4",
+    "jquery": "^3.5.1",
+    "jquery-mask-plugin": "^1.14.16",
+    "nedb": "^1.8.0"
+  }
+}
